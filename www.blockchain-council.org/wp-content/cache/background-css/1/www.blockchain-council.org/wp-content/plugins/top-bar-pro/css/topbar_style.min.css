@@ -1,0 +1,25 @@
+#tpbr_calltoaction:hover {
+    opacity: .9
+}
+
+#tpbr_calltoaction {
+    -webkit-transition: all 100ms ease-in-out;
+    -moz-transition: all 100ms ease-in-out;
+    -o-transition: all 100ms ease-in-out;
+    transition: all 100ms ease-in-out
+}
+
+#tpbr_topbar {
+    padding: 0px !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif
+}
+
+.tpbr_opening {
+    height: 30px;
+    width: 30px;
+    position: fixed;
+    right: 16px;
+    background: var(--wpr-bg-31da0e27-74c4-4655-b9b0-0c8b0a9b9b05);
+    cursor: pointer;
+    z-index: 9999
+}
