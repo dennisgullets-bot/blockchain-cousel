@@ -13,6 +13,13 @@ const certificates = [
     date: "2026-01-02",
     expiration: "2028-01-02",
   },
+    {
+    name: "Donte Blackston",
+    certification: "CCT",
+    id: "139310795",
+    date: "2026-01-26",
+    expiration: "2028-01-06",
+  },
 ];
 
 // Grab the form by ID
