@@ -20,6 +20,14 @@ const certificates = [
     date: "2026-01-26",
     expiration: "2028-01-06",
   },
+
+      {
+    name: "Robbie Florian Schafer",
+    certification: "CCT",
+    id: "139310795",
+    date: "2026-02-23",
+    expiration: "2028-02-23",
+  },
 ];
 
 // Grab the form by ID
